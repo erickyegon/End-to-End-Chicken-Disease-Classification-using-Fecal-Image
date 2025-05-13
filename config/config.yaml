@@ -1,0 +1,8 @@
+artifacts_root: artifacts
+
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: Chicken-fecal-images.zip
+  local_data_file: https://github.com/erickyegon/End-to-End-Chicken-Disease-Classification-using-Fecal-Image/blob/main/Chicken-fecal-images.zip
+  unzip_dir: artifacts/data_ingestion
